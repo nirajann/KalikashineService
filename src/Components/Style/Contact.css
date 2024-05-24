@@ -140,6 +140,7 @@ a{
 /*===== CONTACT ME =====*/
 .contact__container {
   row-gap: 2.5rem;
+  color: whi;
 }
 
 .contact__content {
@@ -147,11 +148,11 @@ a{
 }
 
 .contact__box {
-  background-color: #fff;
+  background-color: #7bf17b;
   border-radius: .5rem;
   padding: 1.5rem;
   text-align: center;
-  box-shadow: 0 4px 6px rgba(174, 190, 205, .3);
+  box-shadow: 0 4px 6px #7bf17b;
 }
 
 .contact__icon, .contact__title {
@@ -178,7 +179,7 @@ a{
 }
 
 .contact__box:hover {
-  box-shadow: 0 6px 8px rgba(174, 190, 205, .4);
+  box-shadow: 0 6px 8px #45ae45;
 }
 
 .contact__inputs {
@@ -209,7 +210,8 @@ a{
 }
 
 .contact__button {
-  cursor: pointer;
+    background-color: #4cc44c;
+  cursor: grab;
   border: none;
 }
 

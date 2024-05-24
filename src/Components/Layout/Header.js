@@ -22,13 +22,6 @@ const Header = () => {
         <li class="nav-item">
           <a class="nav-link" href="#about">About</a>
         </li>
-     <li class="nav-item">
-          <a class="nav-link" href="#about">About</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#contact">Contact</a>
-        </li>
-     
       </ul>
       <a class="btn btn-outline-dark d-none d-lg-block" href="#contact">Let's Talk</a>
       

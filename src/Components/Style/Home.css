@@ -1,6 +1,20 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap");
+
 :root {
-    --accent-color: #f5a841;
+    --accent-color: #98FF98;
   }
+
+
+  .display {
+    font-family: "Montserrat", sans-serif;
+    font-size: calc(1.01rem + 3vw);
+    font-weight: 700;
+    line-height: 1.2;
+    padding-bottom: 20px;
+    color: #0b800b;
+
+}
+
   
   section [class^="container"] {
     padding: 4rem 2rem;

@@ -15,9 +15,10 @@ const Home = () => {
   <div class="container-lg">
     <div class="row align-items-center">
       <div class="col-sm-6">
-        <h1 class="display-2 fw-bold">Kalikshine Service Private Limited</h1>
+        <h1 class="display">Kalikshine Service Private Limited</h1>
         <p>Your trusted partner for top-notch cleaning services. We specialize in carpet cleaning, sofa cleaning, curtain washing, room cleaning, and galaicha cleaning. Experience the difference with our professional and eco-friendly cleaning solutions.</p>
-        <button class="btn btn-outline-dark btn-lg" onclick="location.href='#services'">Our Services</button>
+        <br></br>
+        <button class="btn btn-outline-dark btn-lg" href="/services'">  <a class="nav-link" href="#services">our Services</a></button>
       </div>
       <div class="col-sm-6 text-center">
         <img src={cleaning} class="img-fluid" alt="Cleaning Services"></img>
