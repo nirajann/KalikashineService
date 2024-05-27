@@ -11,6 +11,7 @@ const Home = () => {
 
   return (
     <>
+      {/* // home section */}
 <section class="hero" id="hero">
   <div class="container-lg">
     <div class="row align-items-center">

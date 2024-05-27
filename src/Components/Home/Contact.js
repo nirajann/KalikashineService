@@ -54,6 +54,7 @@ const Contact = () => {
 
   return (
     <>
+    {/* // Contact section */}
       <section className="contact section bd-container" id="contact">
         <span className="section-subtitle">For projects</span>
         <h2 className="section-title">Contact Us</h2>

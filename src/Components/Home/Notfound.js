@@ -9,6 +9,7 @@ const NotFound = () => {
 
   return (
     <>
+      {/* Not found Page */}
     <div id="notfound">
 		<div class="notfound">
 			<div class="notfound-404">
