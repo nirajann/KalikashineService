@@ -1,9 +1,6 @@
-import React, { useEffect, useState, useRef } from "react";
+import React from "react";
 import "../Style/Home.css";
 import Contact from "../Home/Contact"
-import Header from "../Layout/Header"
-
-import { Link, useLocation } from "react-router-dom";
 import cleaning from "../assets/image/Cleaning.png"
 
 const Home = () => {

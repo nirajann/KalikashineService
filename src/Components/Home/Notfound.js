@@ -1,4 +1,4 @@
-import React, { useRef, useEffect } from 'react';
+import React from 'react';
 import '../Style/Notfound.css'; // Assuming you have a CSS file for NotFound section
 
 const NotFound = () => {
